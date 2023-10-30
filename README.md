@@ -17,6 +17,9 @@
       <a href="mailto:sssssmishko75800@gmail.com"><img src="https://img.shields.io/badge/gmail-coral?logo=gmail&labelColor=white" alt="Gmail Badge"/></a>
     </div>
   </li>
+  <li>
+    <a href="https://simplegood42-bit.github.io/">✅Мои работы</a>
+  </li>
 </ul>
 
 ---
