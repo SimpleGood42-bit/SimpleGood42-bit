@@ -10,15 +10,15 @@
   <li>✅Живу IT</li>
   
   <li>✅Напишу для тебя сайт мечты </li>
+    <li>
+    💼 <a href="https://simplegood42-bit.github.io/">Мои работы</a>
+  </li>
   <li>
     <div id="badges">
       📧связаться со мной: 
       <a href="https://t.me/Simplegood42"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&labelColor=white" alt="Telegram Badge"/></a>
       <a href="mailto:sssssmishko75800@gmail.com"><img src="https://img.shields.io/badge/gmail-coral?logo=gmail&labelColor=white" alt="Gmail Badge"/></a>
     </div>
-  </li>
-  <li>
-    <a href="https://simplegood42-bit.github.io/">✅Мои работы</a>
   </li>
 </ul>
 
