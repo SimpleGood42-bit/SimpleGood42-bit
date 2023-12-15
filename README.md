@@ -11,7 +11,7 @@
   
   <li>✅Напишу для тебя сайт мечты </li>
     <li>
-    💼 <a href="https://simplegood42-bit.github.io/">Мои работы</a>
+    💼 <a traget="_blank" href="https://simplegood42-bit.github.io/">Мои работы</a>
   </li>
   <li>
     <div id="badges">
